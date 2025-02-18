@@ -1,58 +1,83 @@
-# Hangman Game
+# 🔠 Hangman Game
 
-A simple Hangman game built using JavaScript, HTML, and CSS. The game challenges players to guess a hidden word by selecting letters before running out of attempts.
+A fun and interactive **Hangman Game** built using JavaScript, HTML, and CSS. Test your vocabulary and guessing skills before you run out of attempts!
 
-## Live Demo
+## 🎮 Live Demo
 
-Play the game here: [Hangman Game](https://sateeshreddymaddi.github.io/Hangman-Game/)
+🔗 [Play Hangman Now](https://sateeshreddymaddi.github.io/Hangman-Game/)
 
-## Features
+---
 
-- Interactive UI with a visually appealing design
-- Random word selection for each game session
-- Visual feedback for correct and incorrect guesses
-- Tracks remaining attempts and displays a win/loss message
-- Responsive design for desktop and mobile devices
+## 🏆 Features
 
-## Technologies Used
+✅ **Random Word Selection** - Every game presents a new challenge.  
+✅ **Keyboard Input Support** - Type your guesses directly from the keyboard.  
+✅ **Visual Feedback** - Incorrect guesses update the hangman graphic.  
+✅ **Win/Loss Alerts** - Displays a message when the game ends.  
+✅ **Responsive Design** - Fully optimized for mobile and desktop devices.  
 
-- HTML
-- CSS
-- JavaScript
+---
 
-## How to Play
+## 🛠️ Technologies Used
 
-1. A random word is selected, and blank spaces are shown for each letter.
-2. Players can guess letters using their keyboard.
-3. Correct guesses reveal the letters in the word.
-4. Incorrect guesses reduce the number of attempts remaining.
-5. The game ends when the player correctly guesses the word or runs out of attempts.
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
-## Installation
+---
 
-To run the game locally:
+## 🎯 How to Play
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sateeshreddymaddi/Hangman-Game.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Hangman-Game
-   ```
-3. Open `index.html` in your browser.
+1️⃣ Click the **Live Demo** link to start playing.  
+2️⃣ Guess letters by typing or clicking the on-screen keyboard.  
+3️⃣ Correct guesses reveal the letters in the word.  
+4️⃣ Incorrect guesses decrease your remaining attempts.  
+5️⃣ Win by guessing the word before you run out of attempts!  
 
-## Contributions
+---
 
-Contributions are welcome! If you want to improve the game, feel free to fork the repository and submit a pull request.
+## 📂 Installation (For Developers)
 
-## License
+Want to run the project locally? Follow these steps:
 
-This project is open-source and available under the MIT License.
+```bash
+# Clone the repository
+git clone https://github.com/sateeshreddymaddi/Hangman-Game.git
 
-## Contact
+# Navigate to the project directory
+cd Hangman-Game
 
-For any questions or suggestions, feel free to reach out:
+# Open index.html in your browser
+```
+
+---
+
+## 🎨 Screenshots
+<img width="1440" alt="Screenshot 2025-02-18 at 7 04 13 PM" src="https://github.com/user-attachments/assets/8345eb68-e7d1-4e30-89ae-e3f0039e8d44" />
+
+<img width="1440" alt="Screenshot 2025-02-18 at 7 04 33 PM" src="https://github.com/user-attachments/assets/ce90352b-fa42-42fd-9bfa-f755e48602c3" />
+
+<img width="1440" alt="Screenshot 2025-02-18 at 7 05 41 PM" src="https://github.com/user-attachments/assets/0a178185-59e0-4124-bfa8-47eb3fc9e428" />
+
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 📬 Contact
+
+For any queries or suggestions, reach out to me:
+
 - **GitHub**: [sateeshreddymaddi](https://github.com/sateeshreddymaddi)
-- **Email**: sateeshreddymaddi@gmail.com
+- **Email**: [sateeshreddymaddi@gmail.com](mailto:sateeshreddymaddi@gmail.com)
 
