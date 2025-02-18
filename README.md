@@ -10,7 +10,6 @@ Play the game here: [Hangman Game](https://sateeshreddymaddi.github.io/Hangman-G
 
 - Interactive UI with a visually appealing design
 - Random word selection for each game session
-- Keyboard input support for guessing letters
 - Visual feedback for correct and incorrect guesses
 - Tracks remaining attempts and displays a win/loss message
 - Responsive design for desktop and mobile devices
